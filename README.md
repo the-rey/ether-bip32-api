@@ -41,7 +41,7 @@ Also call the function using POST, this function needs the ouput of createNewVau
 "seedPhrase": "direct file olive main already around smart bicycle frozen quote custom hole",
 "hdPathString": "m/0'/0'/0'",
 "salt": "ytJAoR/difgt+8CCmlASewq9tmc5UClh22P8suyDIH4=",
-"number":"3"//optional
+"number":"3"
 }
 
 ```
