@@ -1,3 +1,4 @@
+
 # ether-bip32-api
 This is an API service that you can use to generate new vault and address
 
@@ -26,6 +27,8 @@ This function will give you password, seedPhrase, hdPathString, salt.
 }
 
 ```
+
+**DO NOT LOSE THESE DATA  OR WE'RE FUCKED**
 
 
 ### Create New Address(es)
@@ -56,8 +59,3 @@ This function will give you address(es) derived from the keystore
   "0x8966ff6b38f9c9e00764909199b9384b648a5d6c"
 ],
 ```
-
-
-
-
-
